@@ -10,7 +10,7 @@ A learning repository for JavaScript fundamentals and Playwright-related practic
 - `chapter_4_JavaScript_Variables/` - Variable declarations, scoping, and hoisting
 - `chapter_5_Literals/` - Literal values and template strings
 - `chapter_6_operators/` - Operator examples and practice programs
-- `chapter_6_switch/` - Switch statement examples
+- `chapter_6_switch/` - Switch statement examples and day-checker logic
 - `chapter_7_ifelse/` - If/else conditional logic practice
 
 ## How to Use
