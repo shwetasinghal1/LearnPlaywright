@@ -1,0 +1,4 @@
+let age = 30;
+let will_go_casino = age >= 18 ? (age > 40 ? "will go casino" : "no casino") : "no will not go goa";
+console.log(will_go_casino); // Output: will go casino
+
